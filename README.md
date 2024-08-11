@@ -31,8 +31,9 @@ uvicorn main:app
 ## AWS Lambda Integration
 
 * I don't have any prior experience in deploing AWS Lambda therefore, i took reference from given Youtube video. API is fine while testing but funtion url is not working correctly.
-* https://youtu.be/RGIM4JfsSk0?feature=shared 
-
+* https://youtu.be/RGIM4JfsSk0?feature=shared
+* Given funtion url is working for root but does not works further for others endpoints. It is working while testing on aws lambda console.
+* https://ovjncnvwf3aquolanyfgbedpqm0hacui.lambda-url.eu-north-1.on.aws/
 
 
 
