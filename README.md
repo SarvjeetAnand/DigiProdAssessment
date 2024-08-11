@@ -2,11 +2,11 @@
 
 ## Setup
 
-* Download zip file from Repository the extract at your desired loction.
+* Download zip file from Repository then extract at your desired loction.
 * You should have python installed in your system.
 * Open command prompt where main.py located.
 
-## commands
+## Commands
 
 ```
 # To create a virtual enverment.
@@ -30,7 +30,10 @@ uvicorn main:app
 
 ## AWS Lambda Integration
 
-* 
+* I don't have any prior experience in deploing AWS Lambda therefore, i took reference from given Youtube video. API is fine while testing but funtion url is not working correctly.
+```
+https://youtu.be/RGIM4JfsSk0?feature=shared
+```  
 
 
 
